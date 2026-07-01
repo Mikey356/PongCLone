@@ -33,7 +33,7 @@ Gameplay:
 
 
 
-<img width="1884" height="1071" alt="Screenshot 2026-06-29 230156" src="https://github.com/user-attachments/assets/8272c29c-5b67-448f-a902-4fbf5ad09d8f" />
+<img width="1910" height="1071" alt="Screenshot 2026-06-30 220858" src="https://github.com/user-attachments/assets/dc07de12-f279-4b43-bc6f-73cdb792044b" />
 
 
 
